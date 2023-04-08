@@ -1,4 +1,4 @@
-
+package homework1;
 public class Tree3 {
     private Node root;
 
