@@ -1,4 +1,4 @@
-package seminarEX.homework1;
+package homework.homework1;
 
 /**
  * Посмотрите на код, и подумайте сколько разных типов

@@ -1,4 +1,4 @@
-package seminarEX.homework1;
+package homework.homework1;
 
 import java.util.Arrays;
 /*
